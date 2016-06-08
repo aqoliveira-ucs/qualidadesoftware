@@ -1,0 +1,9 @@
+Fábio Venturin, Chariel Simioni de Oliveira
+
+1. Eu digitei git clone e o endereço do aquivo e fez o clone.
+
+2. Eu digitei git add e o arquivo C:\Users\Fábio\qualidadesoftware
+
+3. git log C:\Users\Fábio\qualidadesoftware
+ 
+4. git pull C:\Users\Fábio\qualidadesoftware
