@@ -1,0 +1,10 @@
+Patricia, Roverton, Diego, Franciele
+
+1.git clone https://github.com/aqoliveira-ucs/qualidadesoftware.git
+cd qualidadesoftware
+
+2 git status
+ git add Roverton.txt
+ git commit -m "trabalho teste"
+ git push
+
